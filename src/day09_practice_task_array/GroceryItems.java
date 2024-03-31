@@ -1,6 +1,4 @@
-package day09_practice_task;
-
-import java.util.Arrays;
+package day09_practice_task_array;
 
 public class GroceryItems {
     public static void main(String[] args) {

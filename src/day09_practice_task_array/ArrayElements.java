@@ -1,4 +1,4 @@
-package day09_practice_task;
+package day09_practice_task_array;
 
 import java.util.Arrays;
 
